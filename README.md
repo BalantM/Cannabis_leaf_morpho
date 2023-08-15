@@ -10,6 +10,6 @@ The iconic, palmately compound leaves of *Cannabis* have attracted significant a
 In this repository you can find a dataset composed of 339 leaves from 24 individuals from nine *Cannabis* accessions, including both wild/feral accessions and cultivated varieties. 
 
 1. Jupyter notebook *01_trace_leaf.ipynb* - extraction of the outlines of the scannes leaves
-2. Jupyter notebook *02_model_and_visualize_leaf.ipynb* - data analysis workflow
+2. Jupyter notebook *02_model_visualize_leaf_analysis.ipynb* - data analysis workflow
 3. The folder *03_out* containing the files with outline coordinates used in this study
 4. The folder *04_land* containing the files with landmark corrdinates used in this study
